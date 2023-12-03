@@ -2331,8 +2331,13 @@
   "users": [
     {
       "email": "atultingre.work@gmail.com",
-      "password": "Atul@4568",
+      "password": "Atultingre.work@gmail.com",
       "id": 1
+    },
+    {
+      "email": "atultingre18@gmail.com",
+      "password": "Atultingre18@gmail.com",
+      "id": 2
     }
   ]
 }
