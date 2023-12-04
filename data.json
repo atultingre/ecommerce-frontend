@@ -2337,57 +2337,72 @@
   "users": [
     {
       "email": "atultingre.work@gmail.com",
-      "password": "Atultingre.work@gmail.com",
+      "password": "atultingre.work@gmail.com",
+      "addresses": [
+        {
+          "name": "Atul Tingre",
+          "email": "atultingre.work@gmail.com",
+          "phone": "08806234568",
+          "street": "Avitulya Nivas, A26, Laijai Nagri, Kabra Nagar",
+          "city": "Nanded",
+          "state": "Maharashtra",
+          "pinCode": "431605"
+        },
+        {
+          "name": "Avinash Tingr",
+          "email": "atultingre.work@gmail.com",
+          "phone": "8806234568",
+          "street": "Avitulya Nivas, A26, Laijai Nagri, Kabra Naga",
+          "city": "Nanded",
+          "state": "Maharashtra",
+          "pinCode": "431605"
+        }
+      ],
       "id": 1
     },
     {
       "email": "atultingre18@gmail.com",
       "password": "Atultingre18@gmail.com",
+      "addresses": [],
       "id": 2
     }
   ],
   "cart": [
     {
-      "id": 4,
-      "title": "OPPOF19",
-      "description": "OPPO F19 is officially announced on April 2021.",
-      "price": 280,
-      "discountPercentage": 17.91,
-      "rating": 4.3,
-      "stock": 123,
-      "brand": "OPPO",
+      "title": "Samsung Universe 9",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 1249,
+      "discountPercentage": 15.46,
+      "rating": 4.09,
+      "stock": 36,
+      "brand": "Samsung",
       "category": "smartphones",
-      "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/4/1.jpg",
-        "https://i.dummyjson.com/data/products/4/2.jpg",
-        "https://i.dummyjson.com/data/products/4/3.jpg",
-        "https://i.dummyjson.com/data/products/4/4.jpg",
-        "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+        "https://i.dummyjson.com/data/products/3/1.jpg"
       ],
-      "quantity": 2,
-      "user": 1
+      "quantity": 1,
+      "user": 1,
+      "id": 1
     },
     {
-      "id": 8,
-      "title": "Microsoft Surface Laptop 4",
-      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
-      "price": 1499,
-      "discountPercentage": 10.23,
-      "rating": 4.43,
-      "stock": 68,
-      "brand": "Microsoft Surface",
+      "title": "MacBook Pro",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 1749,
+      "discountPercentage": 11.02,
+      "rating": 4.57,
+      "stock": 83,
+      "brand": "Apple",
       "category": "laptops",
-      "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
       "images": [
-        "https://i.dummyjson.com/data/products/8/1.jpg",
-        "https://i.dummyjson.com/data/products/8/2.jpg",
-        "https://i.dummyjson.com/data/products/8/3.jpg",
-        "https://i.dummyjson.com/data/products/8/4.jpg",
-        "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+        "https://i.dummyjson.com/data/products/6/1.png",
+        "https://i.dummyjson.com/data/products/6/2.jpg",
+        "https://i.dummyjson.com/data/products/6/3.png",
+        "https://i.dummyjson.com/data/products/6/4.jpg"
       ],
-      "quantity": 5,
-      "user": 1
+      "quantity": 1,
+      "id": 2
     }
   ]
 }
